@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="20sp"
+        android:textColor="@color/colorPrimary"
+        android:layout_marginTop="10sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/QuestionHeading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Select No.of Questions:"
+        android:layout_marginTop="10sp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"
+        android:textSize="17sp"
+        android:textStyle="italic"
+        android:textColor="@android:color/black"
+        app:layout_constraintTop_toBottomOf="@+id/heading"/>
+
+    <Spinner
+        android:id="@+id/spinner1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:spinnerMode="dropdown"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="10sp"
+        android:layout_marginTop="5sp"
+        android:gravity="center_horizontal"
+        android:textAlignment="center"
+
+        app:layout_constraintTop_toBottomOf="@id/QuestionHeading"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/TimeHeading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Select Time (In Minutes) :"
+        android:layout_marginTop="10sp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"
+        android:textSize="17sp"
+        android:textStyle="italic"
+        android:textColor="@android:color/black"
+        app:layout_constraintTop_toBottomOf="@+id/spinner1"/>
+
+    <Spinner
+        android:id="@+id/spinner2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:spinnerMode="dropdown"
+        android:background="@android:color/transparent"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="10sp"
+        android:layout_marginTop="5sp"
+        android:gravity="center_horizontal"
+        android:textAlignment="center"
+        app:layout_constraintTop_toBottomOf="@id/TimeHeading"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/btnStartQuiz"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="START QUIZ"
+        android:gravity="center_horizontal"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="20sp"
+        android:paddingTop="7sp"
+        android:background="@drawable/btn_style"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/spinner2"
+        tools:ignore="MissingConstraints" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="MCQs_Options">
+        <item >Fish</item>
+        <item>Sea Cows</item>
+        <item>Whales</item>
+        <item>Pinnipeds</item>
+
+        <item>20</item>
+        <item >21</item>
+        <item>22</item>
+        <item>23</item>
+
+        <item>Toenails</item>
+        <item>Ears</item>
+        <item >Hair</item>
+        <item>Fingers</item>
+
+        <item>K2</item>
+        <item>Makalu</item>
+        <item>Nanga Parbat</item>
+        <item >Mount Everest</item>
+
+        <item > Saint Valentine</item>
+        <item>Saint Blase</item>
+        <item>Saint Agatha</item>
+        <item>Saint Ansgar</item>
+
+        <item>Goodnight moon</item>
+        <item >Alice, Through the Looking-Glass by Lewis Carroll</item>
+        <item>The Lion,the witch and the wardrobe</item>
+        <item> The tale of Peter Rabbit</item>
+
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item >Mars</item>
+        <item>Jupiter</item>
+
+        <item>Triangle,octagon,square,hexagon</item>
+        <item>Octagon,square,triangle,hexagon</item>
+        <item>Square,hexagon,octagon,triangle</item>
+        <item >Triangle,square,hexagon,octagon</item>
+
+        <item>Resin</item>
+        <item>Gold</item>
+        <item>Glass</item>
+        <item>Lead</item>
+
+        <item>Columbia – Snake Plateau</item>
+        <item >Tibetan Plateau</item>
+        <item>Colorado Plateau</item>
+        <item>Kimberley Plateau</item>
+
+        <item>Pacific Ocean</item>
+        <item>Mediterranean Ocean</item>
+        <item >North Atlantic Ocean</item>
+        <item>Arctic Ocean</item>
+
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item >35</item>
+
+        <item >Nose and ears</item>
+        <item>Nose and fingers</item>
+        <item>Ears and hairs</item>
+        <item>Ears and fingers</item>
+
+        <item>Blood</item>
+        <item >Water</item>
+        <item>Cerebrum</item>
+        <item>Brainstem</item>
+
+        <item>Armenia</item>
+        <item>Angola</item>
+        <item >USA</item>
+        <item>UK</item>
+
+        <item>Playing tennis workout</item>
+        <item>A biking workout</item>
+        <item>Swimming workout</item>
+        <item >A dance workout</item>
+
+        <item >High</item>
+        <item>Low</item>
+        <item>Moderate</item>
+        <item>Very low</item>
+
+        <item>Neptune</item>
+        <item >Mercury</item>
+        <item>Mars</item>
+        <item>Earth</item>
+
+        <item>10</item>
+        <item>11</item>
+        <item >12</item>
+        <item>13</item>
+
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item >40</item>
+
+        <item >1914</item>
+        <item>1915</item>
+        <item>1916</item>
+        <item>1917</item>
+
+        <item>Amerigo Vespucci</item>
+        <item >Christopher Columbus</item>
+        <item>John Cabot</item>
+        <item>Ferdinand Magellan</item>
+
+        <item>Killer whale</item>
+        <item>Sperm whale</item>
+        <item >Blue whale</item>
+        <item>Bowhead whale</item>
+
+        <item>Nelson Mandela</item>
+        <item>Elon Musk</item>
+        <item>Barack Obama</item>
+        <item >Bill Gates</item>
+
+        <item >Light bulb</item>
+        <item>Ceiling Light</item>
+        <item>Exhaust Fan</item>
+        <item>Light Multi Pin</item>
+
+        <item>Five</item>
+        <item >Six</item>
+        <item>Seven</item>
+        <item>Eight</item>
+
+        <item>Speedometer</item>
+        <item>Spirometer</item>
+        <item>Ammeter</item>
+        <item >Anemometer</item>
+
+        <item>10</item>
+        <item>11</item>
+        <item >12</item>
+        <item>13</item>
+
+        <item>Inner Core</item>
+        <item>Outer Core</item>
+        <item>Mantle</item>
+        <item >Crust</item>
+
+        <item>Jacob Chornoryzets</item>
+        <item >Dom Perignon</item>
+        <item>Abraham</item>
+        <item>Epiphanius</item>
+
+        <item>Hyacinths</item>
+        <item>Daffodils</item>
+        <item >Tulips</item>
+        <item>Lilies</item>
+
+        <item>To be played fastly</item>
+        <item>To be played harshly</item>
+        <item>To be played slowly</item>
+        <item >To be played softly</item>
+
+        <item >Sword</item>
+        <item>Rifle</item>
+        <item>Machine gun</item>
+        <item>Knives</item>
+
+        <item>Novel</item>
+        <item >Dictionary</item>
+        <item>Book</item>
+        <item>Document</item>
+
+        <item>Robin van Persie</item>
+        <item>Cristiano Ronaldo</item>
+        <item >Roberto Baggio</item>
+        <item>Andres Iniesta</item>
+
+        <item>20</item>
+        <item>32</item>
+        <item>40</item>
+        <item >52</item>
+
+        <item >Africa</item>
+        <item>Asia</item>
+        <item>Europe</item>
+        <item>South America</item>
+
+        <item>Cricket</item>
+        <item >Soccer</item>
+        <item>Volley Ball</item>
+        <item>Foot Ball</item>
+
+        <item>India</item>
+        <item>China</item>
+        <item>France</item>
+        <item >Italy</item>
+
+        <item>Coconut</item>
+        <item>Pine</item>
+        <item >Palm</item>
+        <item>Birch</item>
+
+    </string-array>
+
+</resources>

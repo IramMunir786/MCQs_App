@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="MCQ_Answers">
+        <item >Fish</item>
+        <item >21</item>
+        <item >Hair</item>
+        <item >Mount Everest</item>
+        <item > Saint Valentine</item>
+        <item >Alice, Through the Looking-Glass by Lewis Carroll</item>
+        <item >Mars</item>
+        <item >Triangle,square,hexagon,octagon</item>
+        <item >Resin</item>
+        <item >Tibetan Plateau</item>
+        <item >North Atlantic Ocean</item>
+        <item >35</item>
+        <item >Nose and ears</item>
+        <item >Water</item>
+        <item >USA</item>
+        <item > A dance workout</item>
+        <item >High</item>
+        <item >Mercury</item>
+        <item >12</item>
+        <item >30</item>
+        <item >1914</item>
+        <item >Christopher Columbus</item>
+        <item >Blue whale</item>
+        <item >Bill Gates</item>
+        <item >Light bulb</item>
+        <item >Six</item>
+        <item >Anemometer</item>
+        <item >12</item>
+        <item >Crust</item>
+        <item >Dom Perignon</item>
+        <item >Tulips</item>
+        <item >To be played softly</item>
+        <item >Sword</item>
+        <item >Dictionary</item>
+        <item >Roberto Baggio</item>
+        <item >52</item>
+        <item >Africa</item>
+        <item >Soccer</item>
+        <item >Italy</item>
+        <item >Palm</item>
+
+    </string-array>
+</resources>
